@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, 
+# I'm Clayton
+
+- 🔭 I’m currently working on production in the pharmaceutical field
+- 🌱 I’m currently learning SQL, Power BI and Python
+- 👯 I’m seeking opportunities to apply these new skills in a professional field
 
 <!--
 **Clayton-Magalhaes/Clayton-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
