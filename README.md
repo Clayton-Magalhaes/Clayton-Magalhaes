@@ -1,21 +1,28 @@
 ## Hi there 👋, 
 # I'm Clayton
 
+About me:
+
 - 🔭 I’m currently working on production in the pharmaceutical field
-- 🌱 I’m currently learning SQL, Power BI and Python
+- 🌱 I’m currently learning SQL and Power BI <!--and Python-->
 - 👯 I’m seeking opportunities to apply these new skills in a professional field
+- 🏠 I'm living in Ireland
 
-<!--
-**Clayton-Magalhaes/Clayton-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main Tools:
 
-Here are some ideas to get you started:
+<div>
+<img  height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true">
+<img  height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+<!--<img  height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true">-->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Where you can find me:
+
+<div>
+  <a href="https://www.linkedin.com/in/clayton-magalhaes-b9139b208/#:~:text=www.linkedin.com/in/clayton%2Dmagalhaes%2Db9139b208">
+  <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+  
+  
+</div>
+
