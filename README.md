@@ -22,7 +22,5 @@ Where you can find me:
   <a href="https://www.linkedin.com/in/clayton-magalhaes-b9139b208/#:~:text=www.linkedin.com/in/clayton%2Dmagalhaes%2Db9139b208">
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  
-  
 </div>
 
