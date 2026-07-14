@@ -3,7 +3,7 @@
 
 About me:
 
-- 🔭 I’m currently working on production in the pharmaceutical field
+- 🔭 I’ve been working on production area for nearly 20 years including pharmaceutical field
 - 🌱 I’m currently learning SQL and Power BI <!--and Python-->
 - 👯 I’m seeking opportunities to apply these new skills in a professional field
 - 🏠 I'm living in Ireland
