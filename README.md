@@ -40,5 +40,7 @@ Management needed to identify:
 -Which products have the highest sales volume <br>
 -Whether there is a difference between the leaders in revenue and the leaders in quantity sold <br>
 -Which products should receive greater attention in commercial and promotional strategies
-
+<br>
+<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/tree/main/Power%20BI%20Screenshots"> Click here 
+</a> for Github repository
 
