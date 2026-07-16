@@ -41,7 +41,7 @@ Management needed to identify:
 -Whether there is a difference between the leaders in revenue and the leaders in quantity sold <br>
 -Which products should receive greater attention in commercial and promotional strategies
 <br>
-<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/tree/main/Power%20BI%20Screenshots"> Click here 
+<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products"> Click here 
 </a> for Github repository
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWI3ZjRjMTItMDRkZC00NmQ1LThmNmItZGZhZDdlNzNiMjA1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
