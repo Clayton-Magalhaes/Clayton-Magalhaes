@@ -26,7 +26,7 @@ Where you can find me:
 
 ## Portfolio and Key Projects
 ### Contoso Top 10 Products Analysis 
-<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard%20.png?raw=true">
+<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
 Project Objective: <br>
 Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
 The goal was to support commercial decision-making by highlighting the differences between products that lead in revenue and those that lead in sales volume.
