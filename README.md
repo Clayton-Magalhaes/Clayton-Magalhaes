@@ -24,15 +24,15 @@ Where you can find me:
   </a>
 </div>
 
-## Portfolio and Key Projects
-### Contoso Top 10 Products Analysis 
+# Portfolio and Key Projects
+## Contoso Top 10 Products Analysis 
 <img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
-Project Objective: <br>
+
+### Project Objective
 Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
 The goal was to support commercial decision-making by highlighting the differences between products that lead in revenue and those that lead in sales volume.
 
-<div>
-Business Problem/ <br>
+### Business Problem
 Management needed to identify:
 </div>
 
@@ -43,4 +43,8 @@ Management needed to identify:
 <br>
 <a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/tree/main/Power%20BI%20Screenshots"> Click here 
 </a> for Github repository
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWI3ZjRjMTItMDRkZC00NmQ1LThmNmItZGZhZDdlNzNiMjA1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
+</a> for ContosoRetailDW solution
+
 
