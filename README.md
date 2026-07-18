@@ -44,7 +44,7 @@ Management needed to identify:
 <a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products"> Click here 
 </a> for Github repository
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZWI3ZjRjMTItMDRkZC00NmQ1LThmNmItZGZhZDdlNzNiMjA1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
 </a> for ContosoRetailDW solution
 
 
