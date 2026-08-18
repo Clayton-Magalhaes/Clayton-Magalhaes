@@ -61,8 +61,8 @@ The analysis was created to answer the following business question:
 
 Instead of focusing solely on revenue, this project evaluates the business through three key perspectives:
 
-💰 Sales Performance
-👥 Customer Analysis
+💰 Sales Performance <br>
+👥 Customer Analysis <br>
 🚚 Delivery & Logistics Performance
 
 The final deliverable is an interactive Power BI dashboard that enables store comparison and supports strategic business expansion decisions.
