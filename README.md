@@ -46,5 +46,32 @@ Management needed to identify:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
 </a> for ContosoRetailDW solution
+<br>
+<br>
+
+## 🚲 Store Performance Analysis | BikeStores Analytics
+<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Store-Performance/blob/main/Power%20BI/Customer%20Overview.png">
+
+### 📌 Project Overview
+This project was developed to analyze the performance of three BikeStores locations by evaluating commercial, operational, and customer-related metrics.
+The analysis was created to answer the following business question:
+
+-Which store performs best <br>
+-What factors should be considered when deciding where to open the next store?
+
+Instead of focusing solely on revenue, this project evaluates the business through three key perspectives:
+
+💰 Sales Performance
+👥 Customer Analysis
+🚚 Delivery & Logistics Performance
+
+The final deliverable is an interactive Power BI dashboard that enables store comparison and supports strategic business expansion decisions.
+
+<a href="https://github.com/Clayton-Magalhaes/Project-Store-Performance"> Click here 
+</a> for Github repository
+<br>
+<a href="https://app.powerbi.com/groups/me/reports/50b16889-da95-4ebf-87cd-f77451d32925/3abad4e094cb02700503?experience=power-bi"> Click here
+</a> for ContosoRetailDW solution
+
 
 
