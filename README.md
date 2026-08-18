@@ -70,8 +70,8 @@ The final deliverable is an interactive Power BI dashboard that enables store co
 <a href="https://github.com/Clayton-Magalhaes/Project-Store-Performance"> Click here 
 </a> for Github repository
 <br>
-<a href="https://app.powerbi.com/groups/me/reports/50b16889-da95-4ebf-87cd-f77451d32925/3abad4e094cb02700503?experience=power-bi"> Click here
-</a> for ContosoRetailDW solution
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTQxZGIwZjctZWE3NS00ODNiLWEyYWItMzMzODRjNzE0N2Q1IiwidCI6IjY5ZWMxZGU0LTA4ODYtNGQ4Ny1hN2ZlLWNiMjllMzBiNzRlNSJ9"> Click here
+</a> for BikeStores solution
 
 
 
