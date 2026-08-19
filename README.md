@@ -25,30 +25,6 @@ Where you can find me:
 </div>
 
 # Portfolio and Key Projects
-## Contoso Top 10 Products Analysis 
-<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
-
-### Project Objective
-Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
-The goal was to support commercial decision-making by highlighting the differences between products that lead in revenue and those that lead in sales volume.
-
-### Business Problem
-Management needed to identify:
-</div>
-
--Which products generate the highest revenue <br>
--Which products have the highest sales volume <br>
--Whether there is a difference between the leaders in revenue and the leaders in quantity sold <br>
--Which products should receive greater attention in commercial and promotional strategies
-<br>
-<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products"> Click here 
-</a> for Github repository
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
-</a> for ContosoRetailDW solution
-<br>
-<br>
-
 ## 🚲 Store Performance Analysis | BikeStores Analytics
 <img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Store-Performance/blob/main/Power%20BI/Customer%20Overview.png">
 
@@ -73,5 +49,27 @@ The final deliverable is an interactive Power BI dashboard that enables store co
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzEzYmM2ZjItNDgwNi00MDEzLWEwMTktZTY5NzcwOGZiZmQyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
 </a> for BikeStores solution
 
+## Contoso Top 10 Products Analysis 
+<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
 
+### Project Objective
+Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
+The goal was to support commercial decision-making by highlighting the differences between products that lead in revenue and those that lead in sales volume.
+
+### Business Problem
+Management needed to identify:
+</div>
+
+-Which products generate the highest revenue <br>
+-Which products have the highest sales volume <br>
+-Whether there is a difference between the leaders in revenue and the leaders in quantity sold <br>
+-Which products should receive greater attention in commercial and promotional strategies
+<br>
+<a href="https://github.com/Clayton-Magalhaes/Project-Top-10-Products"> Click here 
+</a> for Github repository
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYjYxNTY3YTktZmJhNS00MTIzLWE3Y2MtOWJiODViNjA2NDI2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9"> Click here
+</a> for ContosoRetailDW solution
+<br>
+<br>
 
