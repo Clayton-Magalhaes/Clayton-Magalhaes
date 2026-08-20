@@ -50,7 +50,7 @@ The final deliverable is an interactive Power BI dashboard that enables store co
 </a> for BikeStores solution
 
 ## Contoso Top 10 Products Analysis 
-<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
+<img align="left" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
 
 ### Project Objective
 Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
