@@ -28,7 +28,7 @@ Where you can find me:
 ## 🚲 Store Performance Analysis | BikeStores Analytics
 <div>
 <img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Store-Performance/blob/main/Power%20BI/Sales%20Overview.png">
-<7div>
+</div>
 
 ### 📌 Project Overview
 This project was developed to analyze the performance of three BikeStores locations by evaluating commercial, operational, and customer-related metrics.
