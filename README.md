@@ -26,7 +26,9 @@ Where you can find me:
 
 # Portfolio and Key Projects
 ## 🚲 Store Performance Analysis | BikeStores Analytics
+<div>
 <img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Store-Performance/blob/main/Power%20BI/Sales%20Overview.png">
+<7div>
 
 ### 📌 Project Overview
 This project was developed to analyze the performance of three BikeStores locations by evaluating commercial, operational, and customer-related metrics.
@@ -50,7 +52,9 @@ The final deliverable is an interactive Power BI dashboard that enables store co
 </a> for BikeStores solution
 
 ## Contoso Top 10 Products Analysis 
+<div>
 <img align="left" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Top-10-Products/blob/main/Power%20BI%20Screenshots/Dashboard.png">
+</div>
 
 ### Project Objective
 Develop an executive dashboard to identify the top 10 best-performing products in sales, analyzing both revenue and units sold.
