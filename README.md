@@ -27,7 +27,7 @@ Where you can find me:
 # Portfolio and Key Projects
 ## 🚲 Store Performance Analysis | BikeStores Analytics
 <div>
-<img align="right" width="500"  src="Power BI/Sales Overview.png">
+<img align="right" width="500"  src="https://github.com/Clayton-Magalhaes/Project-Store-Performance/blob/main/Power%20BI/Sales%20Overview.png">
 </div>
 
 ### 📌 Project Overview
